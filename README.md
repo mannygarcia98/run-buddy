@@ -1,4 +1,4 @@
-# Run Buddy
+# Run Buddy, Inc.
 
 ## Purpose
 
@@ -16,5 +16,3 @@ https://mannygarcia98.github.io/run-buddy/
 ## Contribution
 
 Made with ❤️ by Manny Garcia.
-
-# Run Buddy Inc.
