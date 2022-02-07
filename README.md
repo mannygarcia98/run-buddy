@@ -12,3 +12,5 @@ https://mannygarcia98.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Manny Garcia.
+
+### ©️2019 Run Buddy, Inc
